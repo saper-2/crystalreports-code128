@@ -25,19 +25,24 @@ Click ```Save and close``` - if displays an error - I can't help much, I have it
 Place a text object (unbound string field), open it's properties (```Format object```).
 
 Set Font to Code128, set the font size *(I think size about 18-32pt should result in big enough barcode but not too big for most printers)*.
+
 ![](img/crvs-format-object-font.png)
 
 Edit formula of the object.
+
 ![](img/crvs-edit-formula.png)
+
 You will see **Formula Workshop** window. 
 Switch to **Crystal syntax** (I don't know why it won't work in Basic syntax :thinking: ).
 Just type function name ```MyBarcode128("THE-CODE-CONTENT-")```, or drag into the parenthesis field from Fields.
+
 ![](img/crvs-edit-formula-workshop.png)
 
 
 Now just ```Save and close``` and you can enjoy barcodes in Code 128 on your report.
 
 #### Preview
+
 ![](img/crvs-preview-report.png)
 
 *(Barcode Scanner app on Android)*
