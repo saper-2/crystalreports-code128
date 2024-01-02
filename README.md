@@ -49,7 +49,7 @@ Now just ```Save and close``` and you can enjoy barcodes in Code 128 on your rep
 ![](img/crvs-preview-report-android-app.png)
 
 ## End notes
-If you stumble upon squares in your code (issue #1) then you need to use `common encoding font` (I'm not going into depths about it and what it means - I'm just not interested in it - as long as works :smile: ), just use **simchev** code, avaiable at his repo: https://github.com/simchev/crystalreports-code128 .
+If you stumble upon squares in your code ( ![issue #1 - printing problem](https://github.com/saper-2/crystalreports-code128/issues/1) ) then you need to use `common encoding font` (I'm not going into depths about it and what it means - I'm just not interested in it - as long as works :smile: ), just use **simchev** code, avaiable at his repo: https://github.com/simchev/crystalreports-code128 .
 
 ## Credits
 All the most important work came from Grandzebu [https://grandzebu.net/](https://grandzebu.net/). 
