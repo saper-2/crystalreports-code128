@@ -19,7 +19,7 @@ In Crystal Reports Formula Workshop, create new **Custom function** name it ```M
 
 ![](img/crvs-formula-workshop-function.png)
 
-Click ```Save and close``` - if displays an error - I can't help much, I have it working in CR 2019 (in VS extension).
+Click ```Save and close``` - if displays an error, try switching the editor to basic syntax mode. - I can't help much, I have it working in CR 2019 (in VS extension).
 
 ## Usage
 Place a text object (unbound string field), open it's properties (```Format object```).
